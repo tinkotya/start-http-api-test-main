@@ -2,3 +2,6 @@ node_modules
 coverage
 .idea
 .eslintcache
+.DS_Store
+allure-results/
+specs/.DS_Store
